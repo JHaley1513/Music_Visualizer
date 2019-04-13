@@ -1,4 +1,4 @@
-Music Visualizer - J. Haley, December '18
+Music Visualizer - J. Haley and A. Liu, December '18
 
 Built in Python, using the PyGame, Librosa, Soundfile, and PIL libraries.
 
