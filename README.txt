@@ -16,4 +16,4 @@ Supported audio formats include: mp3, m4a, wav, aif, aiff, ogg.
 To run the application: using Terminal/Command Prompt, navigate to the project directory,
 then execute the command "python3 music_interface.py".
 From there, you'll be prompted to enter a song name; type in the name of any audio file you've added to the project directory,
-without the extension (e.g. Bohemian Rhapsody).
+without the extension (e.g. White Wind).
